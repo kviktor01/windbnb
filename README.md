@@ -1,4 +1,4 @@
-#windbnb
+# Windbnb
 
 Demo url: https://stellar-smakager-61a1b0.netlify.app/
 
